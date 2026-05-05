@@ -1,0 +1,20 @@
+.banner {
+    width: 960px;
+    height: 275px;
+    border: 1px solid black;
+    display: block;
+    margin: auto;
+}
+
+.nav {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.nav a {
+    text-decoration: none; 
+    margin:9px;
+    font-size: 18px;
+    color: black;
+}
+
